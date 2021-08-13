@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and eat a donut.
+          Edit <code>src/App.js</code> and test GH notifications.
         </p>
         <a
           className="App-link"
